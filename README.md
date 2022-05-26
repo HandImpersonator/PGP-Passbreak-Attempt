@@ -8,6 +8,11 @@ A reddit user messaged me on Reddit asking for some help related to PGP, he prop
 
 If the PGP Message and password constraints are correct, it *should* be able to decipher the message eventually according to the Reddit user.
 
+## Python
+I used python 3.9 to create this.
+Libraries os and pgpy used.
+
 ## Credit
-Thank you dwyl and you english wordlist for making my job easier.
+Thank you dwyl and your english wordlist for making my job easier.
 - https://github.com/dwyl/english-words
+- https://github.com/SecurityInnovation/PGPy
