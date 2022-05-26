@@ -8,6 +8,9 @@ A reddit user messaged me on Reddit asking for some help related to PGP, he prop
 
 If the PGP Message and password constraints are correct, it *should* be able to decipher the message eventually according to the Reddit user.
 
+## Compressed files
+I had to compress two text files that were larger than 25 mb,to upload it to GitHub, unzip them to use them with the python script.
+
 ## Python
 I used python 3.9 to create this.
 Libraries os and pgpy used.
