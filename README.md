@@ -1,5 +1,5 @@
 # PGP-Passbreak-Attempt
-A reddit user messaged me on Reddit asking for some help related to PGP, he proposed a problem, gave me some constraints for the password and I attempted to help him as best I could, my curiosity was peaked with this sudden challenge...two hours later this script was the result.
+A Reddit user sent me a private message, through Reddit, asking for some help related to PGP, he proposed a problem, gave me some constraints for the password and I attempted to help him as best I could, my curiosity was peaked with this sudden challenge...two hours later this script was the result.
 
 ## Password constraints
 1. Alphabetic upper and lowercase
